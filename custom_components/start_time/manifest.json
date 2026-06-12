@@ -2,11 +2,12 @@
   "domain": "start_time",
   "name": "Start Time",
   "codeowners": [
-    "@AlexxIT"
+    "@AlexxIT", 
+    "@flamestsui"
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/AlexxIT/StartTime",
+  "documentation": "https://github.com/flamestsui/StartTime",
   "iot_class": "calculated",
   "issue_tracker": "https://github.com/AlexxIT/StartTime/issues",
   "requirements": [],
